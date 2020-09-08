@@ -20,3 +20,6 @@ appengine-generated/
 
 # VS Code workspaces
 *.code-workspace
+
+# Generated binaries
+go-app/companero
